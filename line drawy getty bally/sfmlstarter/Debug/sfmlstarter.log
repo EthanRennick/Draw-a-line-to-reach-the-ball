@@ -1,0 +1,42 @@
+﻿  DrawingGame.cpp
+C:\Users\C00240102\Desktop\sfmlstarter\sfmlstarter\DrawingGame.cpp(107,26): warning C4244:  '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\C00240102\Desktop\sfmlstarter\sfmlstarter\DrawingGame.cpp(107,26): warning C4244:         with
+C:\Users\C00240102\Desktop\sfmlstarter\sfmlstarter\DrawingGame.cpp(107,26): warning C4244:         [
+C:\Users\C00240102\Desktop\sfmlstarter\sfmlstarter\DrawingGame.cpp(107,26): warning C4244:             T=float
+C:\Users\C00240102\Desktop\sfmlstarter\sfmlstarter\DrawingGame.cpp(107,26): warning C4244:         ]
+C:\Users\C00240102\Desktop\sfmlstarter\sfmlstarter\DrawingGame.cpp(141,57): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\C00240102\Desktop\sfmlstarter\sfmlstarter\DrawingGame.cpp(141,57): warning C4244:         with
+C:\Users\C00240102\Desktop\sfmlstarter\sfmlstarter\DrawingGame.cpp(141,57): warning C4244:         [
+C:\Users\C00240102\Desktop\sfmlstarter\sfmlstarter\DrawingGame.cpp(141,57): warning C4244:             T=float
+C:\Users\C00240102\Desktop\sfmlstarter\sfmlstarter\DrawingGame.cpp(141,57): warning C4244:         ]
+C:\Users\C00240102\Desktop\sfmlstarter\sfmlstarter\DrawingGame.cpp(141,43): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\C00240102\Desktop\sfmlstarter\sfmlstarter\DrawingGame.cpp(141,43): warning C4244:         with
+C:\Users\C00240102\Desktop\sfmlstarter\sfmlstarter\DrawingGame.cpp(141,43): warning C4244:         [
+C:\Users\C00240102\Desktop\sfmlstarter\sfmlstarter\DrawingGame.cpp(141,43): warning C4244:             T=float
+C:\Users\C00240102\Desktop\sfmlstarter\sfmlstarter\DrawingGame.cpp(141,43): warning C4244:         ]
+C:\Users\C00240102\Desktop\sfmlstarter\sfmlstarter\DrawingGame.cpp(142,57): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\C00240102\Desktop\sfmlstarter\sfmlstarter\DrawingGame.cpp(142,57): warning C4244:         with
+C:\Users\C00240102\Desktop\sfmlstarter\sfmlstarter\DrawingGame.cpp(142,57): warning C4244:         [
+C:\Users\C00240102\Desktop\sfmlstarter\sfmlstarter\DrawingGame.cpp(142,57): warning C4244:             T=float
+C:\Users\C00240102\Desktop\sfmlstarter\sfmlstarter\DrawingGame.cpp(142,57): warning C4244:         ]
+C:\Users\C00240102\Desktop\sfmlstarter\sfmlstarter\DrawingGame.cpp(142,43): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\C00240102\Desktop\sfmlstarter\sfmlstarter\DrawingGame.cpp(142,43): warning C4244:         with
+C:\Users\C00240102\Desktop\sfmlstarter\sfmlstarter\DrawingGame.cpp(142,43): warning C4244:         [
+C:\Users\C00240102\Desktop\sfmlstarter\sfmlstarter\DrawingGame.cpp(142,43): warning C4244:             T=float
+C:\Users\C00240102\Desktop\sfmlstarter\sfmlstarter\DrawingGame.cpp(142,43): warning C4244:         ]
+C:\Users\C00240102\Desktop\sfmlstarter\sfmlstarter\DrawingGame.cpp(151,48): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\C00240102\Desktop\sfmlstarter\sfmlstarter\DrawingGame.cpp(151,34): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\C00240102\Desktop\sfmlstarter\sfmlstarter\DrawingGame.cpp(216,23): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\C00240102\Desktop\sfmlstarter\sfmlstarter\DrawingGame.cpp(232,1): warning C4244:  '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\C00240102\Desktop\sfmlstarter\sfmlstarter\DrawingGame.cpp(239,1): warning C4305:  '*=': truncation from 'double' to 'T'
+C:\Users\C00240102\Desktop\sfmlstarter\sfmlstarter\DrawingGame.cpp(239,1): warning C4305:         with
+C:\Users\C00240102\Desktop\sfmlstarter\sfmlstarter\DrawingGame.cpp(239,1): warning C4305:         [
+C:\Users\C00240102\Desktop\sfmlstarter\sfmlstarter\DrawingGame.cpp(239,1): warning C4305:             T=float
+C:\Users\C00240102\Desktop\sfmlstarter\sfmlstarter\DrawingGame.cpp(239,1): warning C4305:         ]
+C:\Users\C00240102\Desktop\sfmlstarter\sfmlstarter\DrawingGame.cpp(240,1): warning C4305:  '*=': truncation from 'double' to 'T'
+C:\Users\C00240102\Desktop\sfmlstarter\sfmlstarter\DrawingGame.cpp(240,1): warning C4305:         with
+C:\Users\C00240102\Desktop\sfmlstarter\sfmlstarter\DrawingGame.cpp(240,1): warning C4305:         [
+C:\Users\C00240102\Desktop\sfmlstarter\sfmlstarter\DrawingGame.cpp(240,1): warning C4305:             T=float
+C:\Users\C00240102\Desktop\sfmlstarter\sfmlstarter\DrawingGame.cpp(240,1): warning C4305:         ]
+C:\Users\C00240102\Desktop\sfmlstarter\sfmlstarter\DrawingGame.cpp(270,23): warning C4018:  '<': signed/unsigned mismatch
+  sfmlstarter.vcxproj -> C:\Users\C00240102\Desktop\sfmlstarter\Debug\sfmlstarter.exe

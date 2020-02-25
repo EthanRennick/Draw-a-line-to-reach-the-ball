@@ -1,0 +1,19 @@
+﻿  DrawingGame.cpp
+C:\Users\C00240102\Desktop\sfmlstarter\sfmlstarter\DrawingGame.cpp(103,26): warning C4244:  '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\C00240102\Desktop\sfmlstarter\sfmlstarter\DrawingGame.cpp(103,26): warning C4244:         with
+C:\Users\C00240102\Desktop\sfmlstarter\sfmlstarter\DrawingGame.cpp(103,26): warning C4244:         [
+C:\Users\C00240102\Desktop\sfmlstarter\sfmlstarter\DrawingGame.cpp(103,26): warning C4244:             T=float
+C:\Users\C00240102\Desktop\sfmlstarter\sfmlstarter\DrawingGame.cpp(103,26): warning C4244:         ]
+C:\Users\C00240102\Desktop\sfmlstarter\sfmlstarter\DrawingGame.cpp(230,1): warning C4305:  '*=': truncation from 'double' to 'T'
+C:\Users\C00240102\Desktop\sfmlstarter\sfmlstarter\DrawingGame.cpp(230,1): warning C4305:         with
+C:\Users\C00240102\Desktop\sfmlstarter\sfmlstarter\DrawingGame.cpp(230,1): warning C4305:         [
+C:\Users\C00240102\Desktop\sfmlstarter\sfmlstarter\DrawingGame.cpp(230,1): warning C4305:             T=float
+C:\Users\C00240102\Desktop\sfmlstarter\sfmlstarter\DrawingGame.cpp(230,1): warning C4305:         ]
+  Game.cpp
+  Generating Code...
+C:\Users\C00240102\Desktop\sfmlstarter\sfmlstarter\DrawingGame.cpp(231,1): warning C4305:  '*=': truncation from 'double' to 'T'
+C:\Users\C00240102\Desktop\sfmlstarter\sfmlstarter\DrawingGame.cpp(231,1): warning C4305:         with
+C:\Users\C00240102\Desktop\sfmlstarter\sfmlstarter\DrawingGame.cpp(231,1): warning C4305:         [
+C:\Users\C00240102\Desktop\sfmlstarter\sfmlstarter\DrawingGame.cpp(231,1): warning C4305:             T=float
+C:\Users\C00240102\Desktop\sfmlstarter\sfmlstarter\DrawingGame.cpp(231,1): warning C4305:         ]
+sfml-graphics-d.lib(sfml-graphics-d-2.dll) : fatal error LNK1112: module machine type 'x86' conflicts with target machine type 'x64'
